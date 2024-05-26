@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on cutting-edge cybersecurity projects, CTF challenges, and innovative initiatives in emerging technologies. I am particularly interested in projects that push the boundaries of current cybersecurity practices and contribute to the continuous growth and advancement of the field.
 
-- 📫 How to reach me: omhase9955@gmail.com
+- 📫 How to reach me: omhase9955@gmail.com and www.linkedin.com/in/omhase
 
 - 😄 Pronouns: He/Him.
 
