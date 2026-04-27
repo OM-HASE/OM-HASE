@@ -8,12 +8,11 @@
 <a href="https://linkedin.com/in/omhase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omhase" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-hase&show_icons=true&locale=en&layout=compact" alt="om-hase" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=om-hase&show_icons=true&locale=en" alt="om-hase" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OM-HASE/OM-HASE/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OM-HASE/OM-HASE/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OM-HASE/OM-HASE/output/pacman-contribution-graph.svg">
 </picture>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-hase&show_icons=true&locale=en&layout=compact" alt="om-hase" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=om-hase&show_icons=true&locale=en&layout=compact" alt="om-hase" /></p>
